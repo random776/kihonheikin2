@@ -54,7 +54,7 @@ console.log(result2);
       }} />
       <button type='button' key={"ボタン"} onClick={setNewResult}>追加</button>
     </p>
-    <p>計算式：（デフォルトではNaNと表示されます）</p>
+    <p>値の表</p>
     <table key={'table'} className="table">
       <thead>
       <tr key={'tr'}>
